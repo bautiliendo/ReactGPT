@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { GptMessage, MyMessage, TypingLoader, TextMessageBox } from "../../components";
-import { prosConsUseCase } from "../../../core/use-cases/pros-cons.use-case";
+import { prosConsUseCase } from "../../../core/use-cases";
+
 
 
 
